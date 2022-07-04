@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-roaddamage-staging-140108-authRole",
+      "UnauthRoleArn": "arn:aws:iam::785530749985:role/amplify-roaddamage-staging-140108-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::785530749985:role/amplify-roaddamage-staging-140108-authRole",
+      "Region": "eu-west-3",
+      "DeploymentBucketName": "amplify-roaddamage-staging-140108-deployment",
+      "UnauthRoleName": "amplify-roaddamage-staging-140108-unauthRole",
+      "StackName": "amplify-roaddamage-staging-140108",
+      "StackId": "arn:aws:cloudformation:eu-west-3:785530749985:stack/amplify-roaddamage-staging-140108/89326bc0-a07a-11ec-8fc6-0ae3dcca81d0",
+      "AmplifyAppId": "dkew2sz3z7yv0"
+    },
+    "categories": {
+      "auth": {
+        "RoadDamage": {}
+      }
+    }
+  }
+}
